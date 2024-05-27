@@ -1,0 +1,17 @@
+.odd{
+    background-color: RGB(250, 110, 210);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#t{
+    color:RGB(0, 0, 256);
+    font-size: 36px;
+}
+.thirdo{
+    font-size: 24px;
+}
+.fr{
+    background-color: hsl(120, 55%, 69%);
+    font-size: 24px;
+    font-weight: 700;
+}
